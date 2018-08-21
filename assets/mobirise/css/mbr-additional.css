@@ -1754,11 +1754,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-r1mytm85eh {
-  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #383838;
 }
 .cid-r1mytm85eh .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-r1mytm85eh .mbr-figure {
   margin: 0 auto;
