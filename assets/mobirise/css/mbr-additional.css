@@ -1753,27 +1753,24 @@ body {
 .cid-r1mzFC5p9Y .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r1mytm85eh {
+.cid-r1nsuqom6y {
   padding-top: 60px;
   padding-bottom: 60px;
   background: #383838;
 }
-.cid-r1mytm85eh .image-block {
+.cid-r1nsuqom6y .image-block {
   margin: auto;
 }
-.cid-r1mytm85eh .mbr-figure {
-  margin: 0 auto;
-}
-.cid-r1mytm85eh figcaption {
+.cid-r1nsuqom6y figcaption {
   position: relative;
 }
-.cid-r1mytm85eh figcaption div {
+.cid-r1nsuqom6y figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
 }
 @media (max-width: 768px) {
-  .cid-r1mytm85eh .image-block {
+  .cid-r1nsuqom6y .image-block {
     width: 100% !important;
   }
 }
