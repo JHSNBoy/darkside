@@ -39,7 +39,7 @@
     "uniqCompNum": 15,
     "versionPublish": "4.8.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
